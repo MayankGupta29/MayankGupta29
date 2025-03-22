@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Mayank Gupta (@MayankGupta29)
-- 👀 I’m interested in Software development , Digital marketing
-- 🌱 I’m currently learning C/C++/Java/ReactJs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email- mayank.prakashchandra@gmail.com
-<!---
-MayankGupta29/MayankGupta29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Mayank Gupta (LinkedIn - www.linkedin.com/in/mayank-gupta29)
+- 👀 I’m working as a Senior Data Analyst in CITI with 3 years of experience
+- 🌱 I’m currently learning/ working on SQL, Pyspark, Python, Excel
+- 💞️ I’m looking to new role, responsibilities in filed of Analytics ...
+- 📫 How to reach me Email- mayank2906gupta@gmail.com
+
